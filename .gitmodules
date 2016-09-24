@@ -4,3 +4,6 @@ url=https://github.com/brightify/FileKit
 [submodule "Generator/Dependencies/SourceKitten"]
 	path = Generator/Dependencies/SourceKitten
 	url = https://github.com/jpsim/SourceKitten
+[submodule "Generator/Dependencies/GRMustache"]
+	path = Generator/Dependencies/GRMustache
+	url = https://github.com/groue/GRMustache.swift.git
